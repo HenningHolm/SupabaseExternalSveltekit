@@ -1,4 +1,4 @@
-<script lang="ts">
+<!-- <script lang="ts">
   import { onMount } from 'svelte'
   import type { AuthSession } from '@supabase/supabase-js'
   import Account from '../lib/Account.svelte';
@@ -26,4 +26,6 @@
   {:else}
   <Account {session} />
   {/if}
-</div>
+</div> -->
+
+<h1>hello</h1>
